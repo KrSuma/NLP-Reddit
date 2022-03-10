@@ -1,4 +1,4 @@
-Natural Language Processing Project
+Natural Language Processing Project, Warsaw University of Technology
 
 Project introduction:
 
